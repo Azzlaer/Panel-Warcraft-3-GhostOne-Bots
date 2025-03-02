@@ -1,8 +1,8 @@
 <?php
-$servername = "26.189.202.230";
+$servername = "localhost";
 $username = "slyhark";
 $password = "slyhark123";
-$database = "latinbat_pvpgn";
+$database = "latinbattles";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
